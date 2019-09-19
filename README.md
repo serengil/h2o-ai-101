@@ -1,6 +1,6 @@
 # h2o-ai-101
 
-This repository includes h2o.ai based implementations and documentations.
+This repository includes h2o.ai based machine learning project implementations and documentations.
 
 1- **h2o frame** [`Tutorial`](https://sefiks.com/2019/09/13/h2o-frame-calling-forth-the-power-of-ten-tigers/)
 
@@ -13,6 +13,18 @@ GBM dominates tabular data based kaggle competitions nowadays. Herein, h2o cover
 3- **h2o AutoML** [`Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/H2O-AutoML.ipynb), [`Tutorial`](https://sefiks.com/2019/09/03/a-gentle-introduction-to-h2o-automl/)
 
 The hottest topic in machine learning is AutoML. Even though model design is accepted as state-of-the-art, today AutoML can design better models than us. h2o AutoML covers linear models, tree-based models including random forest and gradient boosting (XGBoost and h2o GBM) and deep learning (regular fully connected neural networks).
+
+# Requirements
+
+I have tested this repository on the following environment configurations. Confirm your environment is same as below to avoid environmental issues.
+
+```python
+>>> !python --version
+Python 3.6.3
+>>> import h2o
+>>> h2o.__version__
+3.26.0.3
+```
 
 # Support
 
