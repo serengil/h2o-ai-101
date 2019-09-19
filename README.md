@@ -14,6 +14,10 @@ GBM dominates tabular data based kaggle competitions nowadays. Herein, h2o cover
 
 The hottest topic in machine learning is AutoML. Even though model design is accepted as state-of-the-art, today AutoML can design better models than us. h2o AutoML covers linear models, tree-based models including random forest and gradient boosting (XGBoost and h2o GBM) and deep learning (regular fully connected neural networks).
 
+4- **Explaining h2o models with Lime** [`Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/h2o-lime.ipynb), [`Tutorial`](https://sefiks.com/2019/09/19/explaining-h2o-models-with-lime/)
+
+Interpretability and accuracy are inversely proportional concepts. You cannot deploy unexplainable models to production even if they have high accuracy. Here, lime offers to explain custom predictions of your built models.
+
 # Requirements
 
 I have tested this repository on the following environment configurations. Confirm your environment is same as below to avoid environmental issues.
