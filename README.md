@@ -18,7 +18,7 @@ The hottest topic in machine learning is AutoML. Even though model design is acc
 
 I have tested this repository on the following environment configurations. Confirm your environment is same as below to avoid environmental issues.
 
-```python
+```
 >>> !python --version
 Python 3.6.3
 >>> import h2o
