@@ -18,6 +18,10 @@ The hottest topic in machine learning is AutoML. Even though model design is acc
 
 Interpretability and accuracy are inversely proportional concepts. You cannot deploy unexplainable models to production even if they have high accuracy. Here, lime offers to explain custom predictions of your built models.
 
+5- **Interpratable Machine Learning with H2O and SHAP** [`Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/h2o-shap.ipynb), [`Tutorial`](https://sefiks.com/2019/10/10/interpretable-machine-learning-with-h2o-and-shap/)
+
+SHAP offers very deeply explanations for built models against LIME. Still, it comes with a time cost. You should use SHAP if you have enough time to analysis your model.
+
 # Requirements
 
 I have tested this repository on the following environment configurations. Confirm your environment is same as below to avoid environmental issues.
