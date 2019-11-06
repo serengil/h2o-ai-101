@@ -10,7 +10,7 @@ Pandas is de facto standard for data manipulation operations among data scientis
 
 GBM dominates tabular data based kaggle competitions nowadays. Herein, h2o covers both XGBoost and its own GBM. This is a gentle introduction to h2o GBM.
 
-3- **h2o AutoML** [`Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/H2O-AutoML.ipynb), [`Tutorial`](https://sefiks.com/2019/09/03/a-gentle-introduction-to-h2o-automl/)
+3- **h2o AutoML** [`Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/H2O-AutoML.ipynb), [`Tutorial`](https://sefiks.com/2019/09/03/a-gentle-introduction-to-h2o-automl/), [`Video`](https://youtu.be/a1Uwa7cagGw)
 
 The hottest topic in machine learning is AutoML. Even though model design is accepted as state-of-the-art, today AutoML can design better models than us. h2o AutoML covers linear models, tree-based models including random forest and gradient boosting (XGBoost and h2o GBM) and deep learning (regular fully connected neural networks).
 
