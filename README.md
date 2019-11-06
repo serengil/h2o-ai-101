@@ -22,6 +22,8 @@ Interpretability and accuracy are inversely proportional concepts. You cannot de
 
 SHAP offers very deeply explanations for built models against LIME. Still, it comes with a time cost. You should use SHAP if you have enough time to analysis your model.
 
+6- **Why You Should Build XGBoost Models Within H2O** Tutorial, [`Code for XGBoost within h2o`](https://github.com/serengil/h2o-ai-101/blob/master/python/XGBoost-In-H2O.ipynb), [`Code for Regular XGBoost`](https://github.com/serengil/h2o-ai-101/blob/master/python/Regular-XGBoost.ipynb)
+
 # Requirements
 
 I have tested this repository on the following environment configurations. Confirm your environment is same as below to avoid environmental issues.
