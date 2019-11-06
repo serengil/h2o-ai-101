@@ -6,7 +6,7 @@ This repository includes h2o.ai based machine learning project implementations a
 
 Pandas is de facto standard for data manipulation operations among data scientist. It is fast but it runs on single cpu core. Herein, h2o frame is a powerful alternative to pandas. It supports multi-core calculations whereas it covers almost same functions with Pandas.
 
-2- **h2o GBM** [`Code`](https://sefiks.com/2019/09/18/a-gentle-introduction-to-h2o-gbm/), [`Tutorial`](https://github.com/serengil/h2o-ai-101/blob/master/python/H2O-GBM.ipynb)
+2- **h2o GBM** [`Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/H2O-GBM.ipynb), [`Tutorial`](https://sefiks.com/2019/09/18/a-gentle-introduction-to-h2o-gbm/)
 
 GBM dominates tabular data based kaggle competitions nowadays. Herein, h2o covers both XGBoost and its own GBM. This is a gentle introduction to h2o GBM.
 
