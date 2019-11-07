@@ -22,11 +22,7 @@ Interpretability and accuracy are inversely proportional concepts. You cannot de
 
 SHAP offers very deeply explanations for built models against LIME. Still, it comes with a time cost. You should use SHAP if you have enough time to analysis your model.
 
-6- **Why You Should Build XGBoost Models Within H2O** [`Tutorial`](https://sefiks.com/2019/11/06/why-you-should-build-xgboost-models-within-h2o)
-
-[`XGBoost within h2o CPU Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/XGBoost-In-H2O-CPU.ipynb), [`Regular XGBoost CPU Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/Regular-XGBoost.ipynb)
-
-[`XGBoost within h2o GPU Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/XGBoost-In-H2O-GPU.ipynb)
+6- **Why You Should Build XGBoost Models Within H2O** [`Tutorial`](https://sefiks.com/2019/11/06/why-you-should-build-xgboost-models-within-h2o), [`XGBoost within h2o CPU Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/XGBoost-In-H2O-CPU.ipynb), [`Regular XGBoost CPU Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/Regular-XGBoost.ipynb), [`XGBoost within h2o GPU Code`](https://github.com/serengil/h2o-ai-101/blob/master/python/XGBoost-In-H2O-GPU.ipynb)
 
 h2o offers faster XGBoost models than regular XGBoost. We will compare these two XGBoost distribution performances.
 
